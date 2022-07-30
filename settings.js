@@ -24,23 +24,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "AngelChan-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ JkzOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://Instagram.com/nan_sakrn" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "aknokteto2@gmail.com" //bebas
-global.region = "United states" //bebas
+global.botname = "FachriBot-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ FchrzOfcོ ×፝֟͜×" //nama kalian
+global.myweb = "https://fachriweb.vercel.app" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/SaefulFahri" //bebas asal jan hapus
+global.github = "https://github.com/Ipulpachri" //bebas
+global.email = "saefulfachri18@gmail.com" //bebas
+global.region = "Indonesian" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285785694474'] //premium user
-global.owner = ["6285785694474","6285785694474"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285785694474" // nomor wa kalian
-global.ownernomerr = "+6285785694474" //nmr wa kalian
+global.premium = ['6285713041886'] //premium user
+global.owner = ["6285713041886","6285713041886"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285713041886" // nomor wa kalian
+global.ownernomerr = "+6285713041886" //nmr wa kalian
 global.thumbnail = "./image/lold.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© AngelChan-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh JkzOfc' //sticker wm ganti nama kalian
+global.packname = '© FachriBot-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh FhrzOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
